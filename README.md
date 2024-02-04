@@ -4,7 +4,7 @@
 
 
 
-- PROJENİN SAHİBİ   ||| **MUHAMMED KONULGA**
+- PROJENİN SAHİBİ   ||| [MUHAMMED KONULGA](https://github.com/Ravneenn)
 
 - SUPERVISOR        ||| [KEYVAN ARASTEH ABBASABAD](https://github.com/keyvanarasteh)
 
