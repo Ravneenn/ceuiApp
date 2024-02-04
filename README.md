@@ -1,7 +1,7 @@
 <h3 align="center">Muhammed Konulga || 221216020 || Bitirme Projesi-1 ||</h3>
 <img align="right" alt="Coding" width="1920" src="screenShots\ceui.banner.png">
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 - PROJENİN SAHİBİ **MUHAMMED KONULGA**
 
