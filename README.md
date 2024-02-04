@@ -14,6 +14,8 @@
 
 - ÖĞRENCİ MAİLİ     ||| **221216020@stu.istinye.edu.tr**
 
+- xfun::embed_file("screenShots\project.pdf")
+
 
 
 <h3 align="left">Languages and Tools:</h3>
