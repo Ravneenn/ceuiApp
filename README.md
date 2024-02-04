@@ -8,7 +8,9 @@
 
 - SUPERVISOR        ||| [KEYVAN ARASTEH ABBASABAD](https://github.com/keyvanarasteh)
 
-- LESSON            ||| BİTİRME PROJESİ - 1
+- LESSON            ||| MOBİL PROGRAMLAMA I
+
+- SECTION  ||| **2**
 
 - ÖĞRENCİ NUMARASI  ||| **221216020**
 
