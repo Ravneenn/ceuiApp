@@ -4,15 +4,15 @@
 
 
 
-- PROJENİN SAHİBİ **MUHAMMED KONULGA**
+- PROJENİN SAHİBİ   ||| **MUHAMMED KONULGA**
 
-- SUPERVISOR KEYVAN ARASTEH ABBASABAD
+- SUPERVISOR KEYVAN ||| ARASTEH ABBASABAD
 
-- LESSON BİTİRME PROJESİ - 1
+- LESSON            ||| BİTİRME PROJESİ - 1
 
-- ÖĞRENCİ NUMARASI **221216020**
+- ÖĞRENCİ NUMARASI  ||| **221216020**
 
-- ÖĞRENCİ MAİLİ **221216020@stu.istinye.edu.tr**
+- ÖĞRENCİ MAİLİ     ||| **221216020@stu.istinye.edu.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
