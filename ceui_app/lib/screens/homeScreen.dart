@@ -538,14 +538,14 @@ class _homeScreenState extends State<homeScreen> {
                                                                               ],
                                                                             )
                                                                           : Text(
-                                                                              "No reports to show",
+                                                                              "No tasks to show",
                                                                               style: GoogleFonts.montserrat(color: Colors.white),
                                                                             )))
                                                     ],
                                                   )
                                                 : Center(
                                                     child: Text(
-                                                    "No reports to show",
+                                                    "No tasks to show",
                                                     style:
                                                         GoogleFonts.montserrat(
                                                             color: Colors.white,

@@ -239,13 +239,18 @@ class _createTaskScreen2State extends State<createTaskScreen2> {
                                                         BorderRadius.circular(
                                                             20)),
                                                 child: Center(
-                                                  child: Text(
-                                                    "The Task Name you try to save is already using. Please try another one",
-                                                    style:
-                                                        GoogleFonts.montserrat(
-                                                            fontWeight:
-                                                                FontWeight
-                                                                    .w700),
+                                                  child: Padding(
+                                                    padding:
+                                                        const EdgeInsets.all(
+                                                            8.0),
+                                                    child: Text(
+                                                      "The Task Name you try to save is already using. Please try another one",
+                                                      style: GoogleFonts
+                                                          .montserrat(
+                                                              fontWeight:
+                                                                  FontWeight
+                                                                      .w700),
+                                                    ),
                                                   ),
                                                 ),
                                               )));
