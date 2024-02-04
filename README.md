@@ -1,4 +1,4 @@
-<h3 align="center">Muhammed Konulga || 221216020 || MOBIL PROGRAMLAMA I ||</h3>
+<h3 align="center">Muhammed Konulga || 221216020 || MOBIL PROGRAMLAMA I & BITIRME PROJESİ I ||</h3>
 <img align="right" alt="Coding" width="1920" src="screenShots\ceui.banner.png">
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -8,9 +8,9 @@
 
 - SUPERVISOR        ||| [KEYVAN ARASTEH ABBASABAD](https://github.com/keyvanarasteh)
 
-- LESSON            ||| MOBİL PROGRAMLAMA I
+- LESSON            ||| MOBIL PROGRAMLAMA I (SECTION:2)
 
-- SECTION  ||| **2**
+- LESSON            ||| BITIRME PROJESİ I  (SECTION:2)
 
 - ÖĞRENCİ NUMARASI  ||| **221216020**
 
